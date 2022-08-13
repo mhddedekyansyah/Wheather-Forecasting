@@ -22,6 +22,7 @@ class _HomeWeatherScreenState extends State<HomeWeatherScreen> {
 
   @override
   Widget build(BuildContext context) {
+    print('REBUILD');
     return RefreshIndicator(
       onRefresh: () => ForecastService().getForecast(),
       child: Scaffold(
