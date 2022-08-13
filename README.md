@@ -1,5 +1,5 @@
 # Weather forecasting
-Weather Forcasting make with flutter using <a href="https://openweathermap.org/">OpenWeatherMap Api</a>
+Weather Forcasting App make with flutter using <a href="https://openweathermap.org/">OpenWeatherMap Api</a>
 
 
 <div style=>
@@ -24,4 +24,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-## 
+## Step by Step
+1. clone weather forcasting app clone repo ``
