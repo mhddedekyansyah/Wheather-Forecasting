@@ -1,13 +1,10 @@
 # Weather forecasting
 Make with Flutter
 
-Weather list
+
 <img src="https://user-images.githubusercontent.com/56949781/184480408-1515a215-1b18-4f1b-8031-83ce73056aeb.jpg" width="200">
 
-Weather details
-
-
-![weather-details](https://user-images.githubusercontent.com/56949781/184480742-a06076f9-84f6-47f4-b32a-97a02f714912.jpg width=200)
+<img src="https://user-images.githubusercontent.com/56949781/184480742-a06076f9-84f6-47f4-b32a-97a02f714912.jpg" width="200">
 
 ## Getting Started
 
