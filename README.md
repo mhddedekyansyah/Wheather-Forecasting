@@ -25,4 +25,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Step by Step
-1. clone weather forcasting app clone repo `git clone git@github.com:mhddedekyansyah/Wheather-Forecasting.git`
+1. open your terminal or gitbash clone weather forcasting app using SSH `git clone git@github.com:mhddedekyansyah/Wheather-Forecasting.git` or HTTPS `git clone https://github.com/mhddedekyansyah/Wheather-Forecasting.git`
+2. after clone open weather forecasting app on your favorite text editor using `code Wheather-Forecasting`
+3. open your terminal on text editor running `flutter pub get`
+4. after this check your emulator or real devices connect `flutter devices`
+5. choose your device you want and then running app `flutter run`
+6. finally enjoy 🚀🚀🚀
+
